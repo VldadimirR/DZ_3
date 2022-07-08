@@ -17,3 +17,4 @@
 * git checkout "" - Переход к нужному коммиту
 
 * git checkout master - Переход к поледней ветке коммита
+![Изображение git](https://static.tildacdn.info/tild3662-3561-4133-b036-376130613930/noroot.png)
