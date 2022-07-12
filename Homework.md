@@ -56,3 +56,7 @@ $ git config --global user.email johndoe@example.com
 ![Изображение git](https://static.tildacdn.info/tild3662-3561-4133-b036-376130613930/noroot.png)
 
 Cсылка на сайт git: https://git-scm.com/
+
+## Заключение 
+
+Проверка для слияние двух веток и решения ошибок связанных с ними.
